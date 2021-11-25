@@ -6,7 +6,7 @@
 
 ---
 
-![](https://github.com/th14g0cust0d10/imagens/blob/main/kpi2.png)
+![](kpi2.png)
 
 Calcular, analisar e interpretar os indicadores chave de performance abaixo com base nos dados fornecidos:
 
