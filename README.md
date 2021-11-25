@@ -30,6 +30,6 @@ Indicador 8 - Taxa Mensal de Retenção de Clientes
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://th14g0cust0d10.github.io/Projeto_DQR_Python/
+* https://th14g0cust0d10.github.io/Projeto_Marketing_Analytics/
 
 ---
