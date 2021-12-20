@@ -1,10 +1,9 @@
 # **Análise de Indicadores de Performance do Varejo**
-
 *Portfólio Thiago Gonçalves Custódio*
 
-## **Definição do Problema**
-
 ---
+
+## **Definição do Problema**
 
 ![](kpi2.png)
 
