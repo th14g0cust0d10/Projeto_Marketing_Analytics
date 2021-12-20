@@ -1,11 +1,9 @@
 # **Análise de Indicadores de Performance do Varejo**
 *Portfólio Thiago Gonçalves Custódio*
+![](kpi2.png)
 
 ---
-
 ## **Definição do Problema**
-
-![](kpi2.png)
 
 Calcular, analisar e interpretar os indicadores chave de performance abaixo com base nos dados fornecidos:
 
